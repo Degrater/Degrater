@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Degrater/Degrater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a beginner Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
+![PYTHON](https://img.shields.io/badge/-FRAMEWORK-090909?style-for-the-badge&logo=Selenium&logoColor=77C8FB)
+![PYTHON](https://img.shields.io/badge/-AIOGRAM-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style-for-the-badge&logo=KOtlin&logoColor=6296CC)
+
+
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-the-badge&logo=Telegram&logoColor=77C8FB)](https://www.instagram.com/_sshhuumm)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-090909?style-for-the-badge&logo=Instagram&logoColor=B4068E)](https://t.me/dmleq)
