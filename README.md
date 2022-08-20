@@ -1,5 +1,5 @@
 
-
+![Header](https://github.com/Degrater/Degrater/blob/main/header.png)
 ## I'm a beginner Developer
 
 ### Languages and Tools
