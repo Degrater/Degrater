@@ -8,6 +8,7 @@
 ![PYTHON](https://img.shields.io/badge/-FRAMEWORK-090909?style-for-the-badge&logo=Selenium&logoColor=77C8FB)
 ![PYTHON](https://img.shields.io/badge/-AIOGRAM-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
 ![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style-for-the-badge&logo=KOtlin&logoColor=6296CC)
+![JAVA](https://img.shields.io/badge/-JAVA-090909?style-for-the-badge&logo=Java&logoColor=6296CC)
 
 
 ### Follow Me
