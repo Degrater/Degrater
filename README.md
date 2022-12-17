@@ -1,14 +1,16 @@
 
 ![Header](https://github.com/Degrater/Degrater/blob/main/header.png)
-## I'm a beginner Developer
+## I'm Developer
 
 ### Languages and Tools
 
-![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
 ![JAVA](https://img.shields.io/badge/-JAVA-090909?style-for-the-badge&logo=Java&logoColor=6296CC)
-![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style-for-the-badge&logo=KOtlin&logoColor=6296CC)
+![Kotlin](https://img.shields.io/badge/-KOTLIN-090909?style-for-the-badge&logo=Kotlin&logoColor=6296CC)
+![ANDROIDSDK](https://img.shields.io/badge/-ANDROID-090909?style-for-the-badge&logo=Android&logoColor=F8C52C)
+![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
 ![PYTHON](https://img.shields.io/badge/-FRAMEWORK-090909?style-for-the-badge&logo=Selenium&logoColor=77C8FB)
 ![PYTHON](https://img.shields.io/badge/-AIOGRAM-090909?style-for-the-badge&logo=Python&logoColor=F8C52C)
+
 
 
 
