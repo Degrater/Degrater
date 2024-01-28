@@ -15,5 +15,5 @@
 
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-the-badge&logo=Telegram&logoColor=77C8FB)](https://www.instagram.com/_sshhuumm)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-the-badge&logo=Telegram&logoColor=77C8FB)](https://www.instagram.com/_degrater)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-090909?style-for-the-badge&logo=Instagram&logoColor=B4068E)](https://t.me/sshhuum)
