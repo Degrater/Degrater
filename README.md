@@ -18,4 +18,4 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style-for-the-badge&logo=Telegram&logoColor=77C8FB)](https://www.instagram.com/_degrater)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-090909?style-for-the-badge&logo=Instagram&logoColor=B4068E)](https://t.me/sshhuum)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Degrater)](https://github.com/Degrater/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgrater)](https://github.com/Derater/github-readme-stats)
